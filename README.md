@@ -7,3 +7,4 @@ This is my portfolio of work as week 2 challenge in Trilogy Bootcamp. This Portf
 With these points in my mind,  this Challenge has helped me set myself up for future success by applying the core skills I've recently learned: flexbox, media queries, and CSS variables. 
 
 Below is the Link to deployment and the link to the repository.
+Repository https://github.com/OhiaJanny/week2challenge
