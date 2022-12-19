@@ -8,3 +8,4 @@ With these points in my mind,  this Challenge has helped me set myself up for fu
 
 Below is the Link to deployment and the link to the repository.
 Repository https://github.com/OhiaJanny/week2challenge
+Deployed site https://ohiajanny.github.io/week2challenge/
